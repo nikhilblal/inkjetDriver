@@ -22,7 +22,10 @@ Annoyingly they all have their own driver styles.
 
 Past projects
 - Epson
-- Xaar 128 [https://github.com/gkyle/xaar128?tab=readme-ov-file]
+-- issue: proprietary drivers trigger methods
+-- issue: can't do viscous reagents
+- [Xaar 128](https://github.com/gkyle/xaar128?tab=readme-ov-file)
+-- issue: exposed traces, no aqueous options
 
 ## Usage
 
