@@ -3598,7 +3598,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 34.29) (xy 262.89 44.45)
+			(xy 267.97 34.29) (xy 267.97 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4118,7 +4118,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 54.61) (xy 262.89 63.5)
+			(xy 267.97 54.61) (xy 267.97 63.5)
 		)
 		(stroke
 			(width 0)
@@ -4372,7 +4372,7 @@
 	)
 	(text "current limiting\nresistor\n0.05 - 0.1R"
 		(exclude_from_sim no)
-		(at 264.16 69.85 0)
+		(at 269.24 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4535,7 +4535,7 @@
 		(uuid "3ffdb2ce-dfb3-4ab1-b01d-fdf3829cb709")
 	)
 	(label "CL2"
-		(at 262.89 63.5 0)
+		(at 267.97 63.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4656,7 +4656,7 @@
 		(uuid "8ed4d716-5200-445e-8530-f349ba82e363")
 	)
 	(label "CL1"
-		(at 262.89 34.29 0)
+		(at 267.97 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7258,7 +7258,7 @@
 	)
 	(symbol
 		(lib_id "fab:R_1206")
-		(at 262.89 49.53 0)
+		(at 267.97 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7267,7 +7267,7 @@
 		(fields_autoplaced yes)
 		(uuid "bed31e2f-f86c-4f91-aecd-0f8b022807cb")
 		(property "Reference" "R1"
-			(at 265.43 48.2599 0)
+			(at 270.51 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7276,7 +7276,7 @@
 			)
 		)
 		(property "Value" "0.1"
-			(at 265.43 50.7999 0)
+			(at 270.51 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7285,7 +7285,7 @@
 			)
 		)
 		(property "Footprint" "fab:R_1206"
-			(at 262.89 49.53 90)
+			(at 267.97 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7294,7 +7294,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 262.89 49.53 0)
+			(at 267.97 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7303,7 +7303,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 262.89 49.53 0)
+			(at 267.97 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
