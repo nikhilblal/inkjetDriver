@@ -34,7 +34,10 @@ Past projects
     - issue: some complexity with repurposing this design as the DMA is used
     - issue: thermal inkjets could damage or react poorly with media
 
-I think the HP45 is a great solution overall as the DPI is relatively high (up to 600dpi!), but this might play havoc with some of the desired media. Ultimately, we may have to got piezo jet.
+I think the HP45 is a great solution overall as the DPI is relatively high (up to 600dpi!), but this might play havoc with some of the desired media. Ultimately, we may have to go piezo jet.
+
+For this project I've selected the [Specter 512](https://asset.fujifilm.com/www/nl/files/2020-06/ef42a0951e1e88574ddcf7afa8dcb755/PDS00070.pdf) by Dimatix/Fujifilm, an [MP108FD amplifier](https://www.apexanalog.com/resources/products/mp108u.pdf) from Apex Microtechnologies, and a (Teensy 4.1)[https://www.pjrc.com/store/teensy41.html] to control everything and provide waveforms.
+
 ## Usage
 
 Explain how to use the project or provide examples.

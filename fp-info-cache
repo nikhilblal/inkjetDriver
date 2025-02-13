@@ -1,4 +1,4 @@
-24550101587520636
+24557271388124689
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90580,6 +90580,13 @@ LEM Hall Effect Voltage transducer
 5
 5
 Snapeda
+2998TR_KEY
+
+2998TR 
+0
+3
+3
+Snapeda
 3557-15_FUSE_3557-15
 
 
@@ -90629,6 +90636,13 @@ BAT_BU2032SM-BT-GTR
 2
 2
 Snapeda
+CONN3_MJ1-3510-SMT-TR_CUD
+
+MJ1-3510-SMT-TR 
+0
+3
+3
+Snapeda
 CON_530480210_MOL
 
 530480210 
@@ -90643,12 +90657,12 @@ ADHV4702-1BCPZ
 13
 13
 Snapeda
-CUI_MJ1-3510-SMT-TR
+DEV-16771_MODULE_DEV-16771
 
 
 0
-3
-3
+65
+65
 Snapeda
 DRV2700RGPT_QFN50P400X400X100-21N
 
@@ -90678,6 +90692,13 @@ FUSE_3588TR
 4
 4
 Snapeda
+MJ1-3510-SMT-TR_CUI_MJ1-3510-SMT-TR
+
+
+0
+3
+3
+Snapeda
 MODULE_ABX00053
 
 
@@ -90699,7 +90720,7 @@ QFN50P400X400X100-21N
 30
 30
 Snapeda
-SOT-23-5_MC_MCH-L
+SOT-23-5_MC_MCH
 
 MCP73811T-420I/OT 
 0
@@ -90713,7 +90734,7 @@ MCP16251T-I/CH
 6
 6
 Snapeda
-TSOT25-L2H_DIO-L
+TSOT25-L2H_DIO
 
 AP3428KTTR-G1 
 0
@@ -98097,6 +98118,13 @@ Varistor VF
 0
 2
 2
+custom
+MP108FD
+FD
+Integrated Circuit
+0
+34
+34
 fab
 Battery-Holder_Coin-Cell_CR2032_Linx_BAT-HLD-001
 Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
